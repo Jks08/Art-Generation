@@ -18,4 +18,6 @@ Transfer learning is an idea, in which we use a network trained on a different t
 
 <img src="Images/koifish.jpg" style="width:400px;height:400px;">
 
+**Style Image Used by me:**
 
+<img src="Images/I2.jpg" style="width:400px;height:400px;">
