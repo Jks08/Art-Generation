@@ -21,3 +21,8 @@ Transfer learning is an idea, in which we use a network trained on a different t
 **Style Image Used by me:**
 
 <img src="Images/I2.jpg" style="width:400px;height:400px;">
+
+**Generated Image:**
+
+
+<img src="Images/generimg.JPG">
